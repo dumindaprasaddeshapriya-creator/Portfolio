@@ -1,0 +1,102 @@
+give me a prompt for make web portfolio for to add job cv link. you can use html,css,jawa script and all languages . use attractive and simple to understand.
+My name : Duminda prasad
+Job role- GRADUATE BET(HONS) IN MECHATRONICS
+Profile-"Self-motivated technology enthusiast, reliable, responsible, and hard-working
+person with a keen interest in Electronics, Robotics, and Automation. I am a
+mature team worker and adaptable to all challenging situations. I am able to
+work well both in a team environment as well as using my own initiative."
+contact-071-5718038
+dumindaprasaddeshapriya
+@gmail.com
+Pitipana,Hoamagama
+EDUCATION
+
+2022- 2026
+UNIVERSITY OF
+SRIJAYEWARDENEPURA
+
+. BET (Hons.) in Mechatronics
+Technology
+· GPA : 3.37/4.0
+
+G.C.E ADVANCE LEVEL -
+TECHNOLOGY STREAM
+
+· Engineering Technology - A
+. Science For Technology - A
+. Information and
+Communication Technology - B
+. District 9th (Badulla)
+
+EXPERTISE
+
+. PLC Programming
+. Microcontroller
+Programming(Arduino,ESP32)
+. 3D Modeling (SolidWorks)
+· PCB Design(Altium Designer)
+. MATLAB
+
+LANGUAGES
+
+· Sinhala (Native)
+· English (Intermediate)
+
+WORK EXPERIENCE
+
+. Internship at ThermalR Industries PVT(Ltd) Oct 2024 - April 2025
+. Contributed to a United Nations Organization (UNO) - funded
+electric vehicle conversion project during my Engineering internship.
+. Participated in converting 40 four-stroke three-wheelers into fully
+electric vehicles over a six-month period.
+. Gained hands-on experience with BMS data monitoring, sensors,
+relays, contactors, motor controllers, PMSM EV motors, and various
+power electronics in EV systems.
+. Helped with Arduino/ESP32 projects.
+
+PROJECTS & CERTIFICATIONS
+
+CNC PCB Engraver
+Designed and built a compact CNC machine specifically for engraving
+printed circuit boards (PCBs) to create custom circuits and prototypes.
+
+· 80V Battery Power Analyzer
+Designed and implemented an 80V battery power analyzer test bench to
+evaluate EV battery health, efficiency, discharge behavior, and faults using
+BMS, ESP32 microcontroller, and LCD monitoring display.
+
+. Dual-Function Corn Shelling and Husk Removal Machine
+Designed and fabricated a practical machine for corn shelling and husk
+removal with minimal human interaction. The machine removes corn
+husks at the top and separates cleaned kernels at the bottom.
+
+. Certificate Course in Electronics (2023 sep-2024 April)
+Ceylon - German Technical Training Institute Mount Lavinia
+
+EXTRACURRICULAR ACTIVITIES
+
+. Event Program Planner, MTSS (Mechatronics Technology
+Students Society).
+Member of Program committee team of Electro Combat Robot
+Battle 2024.
+
+special instructions for prompt.
+1. give a animated space for to add my profile photo near my name.
+3.need to add my projects with photos. when cursor move to a one project show photo little bit zoomed and after clicking photo should show more details of project. need to add photos and video of that project. include space for link photos and videos.
+3. show my cv to downlode.
+4. these are my three project.
+CNC PCB Engraver
+Designed and built a compact CNC machine specifically for engraving
+printed circuit boards (PCBs) to create custom circuits and prototypes.
+
+· 80V Battery Power Analyzer
+Designed and implemented an 80V battery power analyzer test bench to
+evaluate EV battery health, efficiency, discharge behavior, and faults using
+BMS, ESP32 microcontroller, and LCD monitoring display.
+
+. Dual-Function Corn Shelling and Husk Removal Machine
+Designed and fabricated a practical machine for corn shelling and husk
+removal with minimal human interaction. The machine removes corn
+husks at the top and separates cleaned kernels at the bottom.
+
+show littile descriptions on project.
